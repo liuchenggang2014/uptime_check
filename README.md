@@ -1,5 +1,5 @@
 # uptime_check
 
-## single: create single uptime check(https+tcp+alert+notification channel)
+1. single: create single uptime check(https+tcp+alert+notification channel)
 
-## multiple: create multiple uptime check + alerts after input the locals variable in main.tf
+2. multiple: create multiple uptime check + alerts after input the locals variable in main.tf
